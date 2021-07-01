@@ -1,5 +1,3 @@
 import { createContext } from 'react';
 
-export const AlertContext = () => {
-
-}
+export const AlertContext = createContext()
