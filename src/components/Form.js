@@ -22,6 +22,7 @@ export const Form = () => {
         } else {
             alert.show('Empty input')
         }
+        
     }
 
     return (
