@@ -19,4 +19,4 @@ export const Alert = () => {
                 onClick={hide}></button>
         </div>
     )
-}
+} 
